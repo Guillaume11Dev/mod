@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "mod",
+  "version": "${version}",
+  "name": "mod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/guill/mod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "fr.guillaume.mod.ModClient"
+    ],
+    "main": [
+      "fr.guillaume.mod.Mod"
+    ]
+  },
+  "mixins": [
+    "mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
