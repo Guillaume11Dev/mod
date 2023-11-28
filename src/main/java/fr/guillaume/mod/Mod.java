@@ -1,5 +1,7 @@
 package fr.guillaume.mod;
 
+import fr.guillaume.item.ModItemGroups;
+import fr.guillaume.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,7 +12,7 @@ public class Mod implements ModInitializer {
     @Override
     public void onInitialize() {
 
-
-        LOGGER.info("hello ! ");
+        ModItems.registerModItems();
+        ModItemGroups.registerItemGroups();
     }
 }
