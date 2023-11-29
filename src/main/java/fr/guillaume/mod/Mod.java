@@ -1,5 +1,6 @@
 package fr.guillaume.mod;
 
+import fr.guillaume.block.ModBlocks;
 import fr.guillaume.item.ModItemGroups;
 import fr.guillaume.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -14,5 +15,6 @@ public class Mod implements ModInitializer {
 
         ModItems.registerModItems();
         ModItemGroups.registerItemGroups();
+        ModBlocks.registerModBlock();
     }
 }
