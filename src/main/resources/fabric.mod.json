@@ -9,7 +9,6 @@
     "repo": "https://github.com/guill/mod"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/mod/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
