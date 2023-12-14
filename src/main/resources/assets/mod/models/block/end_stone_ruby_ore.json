@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "mod:block/ruby_ore"
+    "all": "mod:block/end_stone_ruby_ore"
   }
 }
