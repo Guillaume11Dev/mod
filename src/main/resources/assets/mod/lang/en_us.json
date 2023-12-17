@@ -1,6 +1,8 @@
 {
   "item.mod.ruby": "Ruby",
   "item.mod.raw_ruby": "Raw Ruby",
+  "item.mod.metal_detector": "Metal Detector",
+
 
   "block.mod.ruby_block": "Block of Ruby",
   "block.mod.raw_ruby_block": "Block of Raw Ruby",
