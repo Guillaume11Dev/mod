@@ -2,6 +2,7 @@
   "item.mod.ruby": "Ruby",
   "item.mod.raw_ruby": "Raw Ruby",
   "item.mod.metal_detector": "Metal Detector",
+  "item.mod.tomato": "Tomato",
 
 
   "block.mod.ruby_block": "Block of Ruby",
@@ -12,6 +13,11 @@
   "block.mod.nether_ruby_ore": "Nether Ruby Ore",
   "block.mod.end_stone_ruby_ore": "End Stone Ruby Ore",
 
+  "block.mod.sound_block": "Sound Block",
+
+
   "itemgroup.ruby": "Ruby Mod Group"
+
+
 
 }
