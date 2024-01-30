@@ -1,0 +1,8 @@
+// 1.20	2024-01-30T17:50:48.8465853	mod/Block Loot Tables
+93c643752e8ec90894dc6734b2e7e7057b644d7e data\mod\loot_tables\blocks\ruby_block.json
+badd50f22a66b288cf7a4897f148ca4c46103126 data\mod\loot_tables\blocks\ruby_ore.json
+badd50f22a66b288cf7a4897f148ca4c46103126 data\mod\loot_tables\blocks\nether_ruby_ore.json
+badd50f22a66b288cf7a4897f148ca4c46103126 data\mod\loot_tables\blocks\deepslate_ruby_ore.json
+badd50f22a66b288cf7a4897f148ca4c46103126 data\mod\loot_tables\blocks\end_stone_ruby_ore.json
+8b94de605634a7f08383620afcf93d513daf92ad data\mod\loot_tables\blocks\raw_ruby_block.json
+0dddbc38c05d8a0b5849e852fa5fdc4a0c926f35 data\mod\loot_tables\blocks\sound_block.json

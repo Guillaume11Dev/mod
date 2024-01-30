@@ -1,0 +1,27 @@
+// 1.20	2024-01-30T17:50:48.8505769	mod/Model Definitions
+a4042f2ed07c2cccda0cafce5315dc6bf119ebf4 assets\mod\models\block\end_stone_ruby_ore.json
+27f213d654c46892500687f91e8787447b044a48 assets\mod\blockstates\sound_block.json
+7d9d6a34e21124ad73e0cdf7d4b6031da7e0d7dc assets\mod\models\item\raw_ruby.json
+009196830d97be92ba2bb65dd931e3d5db19c8e0 assets\mod\models\block\ruby_ore.json
+4e2df2ed7dfac663dae79b2f81f5230ffb07bf4d assets\mod\models\item\ruby_block.json
+64ef8741dc2510a6885880c5c578a6facebd5f67 assets\mod\blockstates\ruby_ore.json
+88d401bb3cf50a324555b276a7ff8dd200b40359 assets\mod\models\item\end_stone_ruby_ore.json
+4d16738459fe89db1f2123b9504c620980eec35e assets\mod\models\block\sound_block.json
+e40ac67e3fd799d2fefe38e01570038bf491051d assets\mod\models\item\tomato.json
+4dd9b9f1f8b909f60808f7f084a8d26042ae7fbc assets\mod\blockstates\deepslate_ruby_ore.json
+19e5e5b46911fc8eebefbc81b1e1f14501f6adc4 assets\mod\models\item\raw_ruby_block.json
+be236e4fc65ed84636a2922ff3640b617293aa6a assets\mod\models\item\nether_ruby_ore.json
+7743635eb93ec044c30dc6f7be1782faa84dd99a assets\mod\models\block\deepslate_ruby_ore.json
+d0e430434c0f575a9ef71be7804c870b7509382c assets\mod\models\block\nether_ruby_ore.json
+55a744d899f7e72bf03c8b5aed000a2e4e6b498d assets\mod\blockstates\nether_ruby_ore.json
+715632746474b242d7a61fd0d1c5e3829738d395 assets\mod\models\item\ruby.json
+feccdabeaa796f94d278f2160ed4fda9c25011a2 assets\mod\models\item\sound_block.json
+6db838876ceed84b83e90c20583cbc0deb3d8eee assets\mod\models\block\ruby_block.json
+596d1192e3df8436de410a8ac2e44d29b27574a6 assets\mod\models\block\raw_ruby_block.json
+2f80b3862d1a4b1c634d2c00ad80491b8f2fd6c5 assets\mod\blockstates\end_stone_ruby_ore.json
+b12465463883f9be1f581e50b4eefb3c220d2bdf assets\mod\models\item\metal_detector.json
+6f056ecaaffdd2313e127ebc02fdb15ea640079e assets\mod\models\item\ruby_ore.json
+b1da41f26ca456e883f39da7158c8839354d5ef3 assets\mod\models\item\deepslate_ruby_ore.json
+580ec965c544891fd51e290ab6167018d15ed6a9 assets\mod\blockstates\ruby_block.json
+cfdbbe36fe99fd8b4e5cfac2da2eb5cc2d7f3412 assets\mod\blockstates\raw_ruby_block.json
+695f61efd109aa37af1ff6810448e7b7ee9687b9 assets\mod\models\item\coal_briquette.json

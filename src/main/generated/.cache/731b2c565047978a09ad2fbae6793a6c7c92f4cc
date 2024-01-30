@@ -1,0 +1,7 @@
+// 1.20	2024-01-30T17:50:48.8515781	mod/Tags for minecraft:block
+7927d5e50b7557dcc9ba17f4ae8411c5113f26df data\minecraft\tags\blocks\needs_iron_tool.json
+1f56b55e7c91ceb5e43e556634ce2647a0356bdc data\minecraft\tags\blocks\needs_diamond_tool.json
+9efe42bd3afff27532791e25624a48c45ba7b4fd data\fabric\tags\blocks\need_tool_level_4.json
+de895b63da1072a565b3be29c8afa628da674b33 data\minecraft\tags\blocks\mineable\pickaxe.json
+bf4d4cb66c7ec259ca82c1633c957ba423b1a876 data\minecraft\tags\blocks\needs_stone_tool.json
+7a9257ec6faebecc28fe0f8c9dd966807b458d24 data\mod\tags\blocks\metal_detector_detectable_blocks.json
