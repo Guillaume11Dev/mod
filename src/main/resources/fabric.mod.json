@@ -14,6 +14,9 @@
     "client": [
       "fr.guillaume.mod.ModClient"
     ],
+    "fabric-datagen": [
+      "fr.guillaume.mod.ModDataGenerator"
+    ],
     "main": [
       "fr.guillaume.mod.Mod"
     ]

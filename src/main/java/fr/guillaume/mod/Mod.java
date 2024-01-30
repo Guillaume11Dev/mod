@@ -1,9 +1,10 @@
 package fr.guillaume.mod;
 
-import fr.guillaume.block.ModBlocks;
-import fr.guillaume.item.ModItemGroups;
-import fr.guillaume.item.ModItems;
+import fr.guillaume.mod.block.ModBlocks;
+import fr.guillaume.mod.item.ModItemGroups;
+import fr.guillaume.mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -16,5 +17,8 @@ public class Mod implements ModInitializer {
         ModItems.registerModItems();
         ModItemGroups.registerItemGroups();
         ModBlocks.registerModBlock();
+
+        FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE,200);
+
     }
 }

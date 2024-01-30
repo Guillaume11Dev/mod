@@ -4,8 +4,10 @@
   "package": "fr.guillaume.mod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+
   ],
   "client": [
+
   ],
   "injectors": {
     "defaultRequire": 1

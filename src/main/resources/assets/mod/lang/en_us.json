@@ -3,6 +3,8 @@
   "item.mod.raw_ruby": "Raw Ruby",
   "item.mod.metal_detector": "Metal Detector",
   "item.mod.tomato": "Tomato",
+  "item.mod.coal_briquette": "Coal Briquette",
+
 
 
   "block.mod.ruby_block": "Block of Ruby",
@@ -14,6 +16,8 @@
   "block.mod.end_stone_ruby_ore": "End Stone Ruby Ore",
 
   "block.mod.sound_block": "Sound Block",
+
+  "tooltip.mod.metal_detector.tooltip": "Finds valuables undeground",
 
 
   "itemgroup.ruby": "Ruby Mod Group"
