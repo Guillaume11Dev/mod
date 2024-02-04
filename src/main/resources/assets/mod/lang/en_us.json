@@ -17,6 +17,16 @@
 
   "block.mod.sound_block": "Sound Block",
 
+  "block.mod.ruby_stairs": "Ruby Stairs",
+  "block.mod.ruby_slab": "Ruby Slab",
+  "block.mod.ruby_button": "Ruby Button",
+  "block.mod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.mod.ruby_fence": "Ruby Fence",
+  "block.mod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.mod.ruby_wall": "Ruby Wall",
+  "block.mod.ruby_door": "Ruby Door",
+  "block.mod.ruby_trapdoor": "Ruby Trapdoor",
+
   "tooltip.mod.metal_detector.tooltip": "Finds valuables undeground",
 
 
